@@ -13,4 +13,5 @@ void printpointer()
 int main()
 {
 	printpointer();
+	printf("Pointed Pointer!");
 }
